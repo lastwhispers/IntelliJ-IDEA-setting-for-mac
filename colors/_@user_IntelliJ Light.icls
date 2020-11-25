@@ -4,7 +4,7 @@
     <property name="created">2020-11-17T10:02:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-11-25T18:01:40</property>
+    <property name="modified">2020-11-26T00:35:47</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -55,7 +55,7 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="8c8c8c" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -67,7 +67,7 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="8c8c8c" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
