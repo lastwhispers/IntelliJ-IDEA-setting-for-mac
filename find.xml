@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目 'zhongnan'" />
-    <option name="defaultScopeName" value="项目 'zhongnan'" />
+    <option name="customScope" />
+    <option name="defaultScopeName" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="项目 'zhongnan'" />
+    <option name="SEARCH_SCOPE" />
     <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
