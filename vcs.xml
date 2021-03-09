@@ -61,9 +61,13 @@
           <option name="url" value="https://github.com/alibaba/jetcache.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dian.so:common/dian-nacos-sample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/source" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/dian" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
