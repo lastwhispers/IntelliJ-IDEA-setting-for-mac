@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
+    <option name="customScope" value="所有位置" />
+    <option name="defaultScopeName" value="所有位置" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="global" />
+    <option name="SEARCH_SCOPE" value="所有位置" />
     <mask>*.jsp</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
