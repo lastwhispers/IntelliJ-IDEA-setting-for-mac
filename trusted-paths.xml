@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/workspace/github/book-code" />
+        <option value="$USER_HOME$/workspace/java" />
       </list>
     </option>
   </component>
