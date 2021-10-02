@@ -1,0 +1,12 @@
+<templateSet group="AndroidLog">
+  <template name="loge" value="log.error($content$,$params$);" description="Log.e(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="content" expression="groovyScript(&quot;def params = _2.collect {【+it+ = {}】}.join(, ); return \ + _1 + () called with exception =  + (params.empty  ?  : params) + \, methodName(), methodParameters()&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def params = _1.collect {it}.join(, ); return   (params.empty  ?  : params) + ,e ,  methodParameters()&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="logm" value="log.info($content$,$params$);" description="Log method name and its arguments" toReformat="true" toShortenFQNames="true">
+    <variable name="content" expression="groovyScript(def params = _2.collect {【+it+ = {}】}.join(, ); return \ + _1 + () called with parameters =  + (params.empty  ?  : params) + \, methodName(), methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(def params = _1.collect {it}.join(, ); return   (params.empty  ?  : params) ,  methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
