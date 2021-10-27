@@ -69,6 +69,10 @@
           <option name="url" value="git@git.dian.so:fis/xianyu.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dian.so:fis/baoshi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/dian" />
