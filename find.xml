@@ -3,6 +3,7 @@
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
     <option name="SEARCH_SCOPE" value="所有位置" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.yml</mask>
     <mask>*.ftl</mask>
     <mask>*.css</mask>
