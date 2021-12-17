@@ -3,6 +3,22 @@
     <option name="usageStatsEnabled" value="true" />
     <option name="projectNameToSettingsMap">
       <map>
+        <entry key="baoshi">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="baoshi" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="olympic">
           <value>
             <ProjectSettings>
@@ -39,6 +55,14 @@
     </option>
     <option name="projectNameModuleNameToSettingsMap">
       <map>
+        <entry key="baoshi_baoshi">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="baoshi" />
+              <option name="testDirectoryRoot" value="src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="olympic_olympic">
           <value>
             <ModuleSettings>
