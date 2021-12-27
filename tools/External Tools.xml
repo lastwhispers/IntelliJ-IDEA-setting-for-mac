@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Show Simple Byte Code" description="Show Byte Code" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/bin/javap" />
+      <option name="PARAMETERS" value="-c $FileNameWithoutExtension$.class" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+  <tool name="Show Byte Code" description="Show Byte Code" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/bin/javap" />
+      <option name="PARAMETERS" value="-verbose -p -c $FileNameWithoutExtension$.class" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+</toolSet>
