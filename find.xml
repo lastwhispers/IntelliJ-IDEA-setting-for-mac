@@ -3,7 +3,6 @@
     <option name="customScope" value="变更" />
     <option name="defaultScopeName" value="变更" />
     <option name="SEARCH_SCOPE" value="变更" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.yml</mask>
     <mask>pom.xml</mask>
     <mask>*.ftl</mask>
