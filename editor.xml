@@ -18,5 +18,7 @@
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\brefactor\b.*" />
     <pattern pattern="\bpref\b.*" />
+    <pattern pattern="\bk1" />
+    <pattern pattern="\bk2" />
   </component>
 </application>
