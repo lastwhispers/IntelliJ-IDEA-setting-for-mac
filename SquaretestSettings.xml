@@ -35,6 +35,22 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="yandang">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="yandang" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4Mockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4Mockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="zhongnan">
           <value>
             <ProjectSettings>
@@ -67,6 +83,14 @@
           <value>
             <ModuleSettings>
               <option name="moduleName" value="olympic" />
+              <option name="testDirectoryRoot" value="src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="yandang_yandang">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="yandang" />
               <option name="testDirectoryRoot" value="src/test/java" />
             </ModuleSettings>
           </value>
