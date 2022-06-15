@@ -19,6 +19,22 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="fis-settle-platform">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="fis-settle-platform" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4Mockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4Mockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="ALWAYS_SHOW_CONFIG" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="olympic">
           <value>
             <ProjectSettings>
@@ -91,6 +107,14 @@
           <value>
             <ModuleSettings>
               <option name="moduleName" value="baoshi" />
+              <option name="testDirectoryRoot" value="src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="fis-settle-platform_fis-settle-platform">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="fis-settle-platform" />
               <option name="testDirectoryRoot" value="src/test/java" />
             </ModuleSettings>
           </value>
