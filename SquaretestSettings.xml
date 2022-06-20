@@ -67,6 +67,22 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="withdraw-platform">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="withdraw-platform" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="yandang">
           <value>
             <ProjectSettings>
@@ -132,6 +148,14 @@
             <ModuleSettings>
               <option name="moduleName" value="pap-web" />
               <option name="testDirectoryRoot" value="pap-web/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="withdraw-platform_wp-web">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="wp-web" />
+              <option name="testDirectoryRoot" value="wp-web/src/test/java" />
             </ModuleSettings>
           </value>
         </entry>
