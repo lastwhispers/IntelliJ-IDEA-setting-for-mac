@@ -3,6 +3,8 @@
     <option name="pluginIds">
       <list>
         <option value="idea.plugin.protoeditor" />
+        <option value="com.haulmont.jpab" />
+        <option value="com.intellij.selenium" />
       </list>
     </option>
   </component>
